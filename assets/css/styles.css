@@ -22,16 +22,80 @@ body {
         "Helvetica Neue",
         sans-serif;
     font-size: 1.6rem;
+    color: #1a1a1a;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
 }
 
 main {
     padding: 30px;
 }
 
-.item {
+.card {
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
-    height: 200px;
-    background: #f6f6f6;
+    transform: translateY(0);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+.card__img {
+    position: relative;
+    height: 0;
+    padding-top: 56.25%;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.card__img::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.3s;
+}
+
+.card__img::before {
+    left: -100%;
+}
+
+.card__img:hover::before {
+    left: 100%;
+}
+
+.card__thumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card__content {
+    padding: 20px 0;
+}
+
+.card__cate {
+    padding: 0 8px;
+    border: 1px solid #dbdbdb;
+    border-radius: 99px;
+    font-size: 1.4rem;
+}
+
+.card__title {
+    margin-top: 16px;
+    font-size: 2rem;
+    font-weight: 500;
 }
