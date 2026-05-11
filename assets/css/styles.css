@@ -169,3 +169,11 @@ main {
     font-size: 2rem;
     font-weight: 500;
 }
+
+.footer {
+    padding: 30px;
+}
+
+.copyright {
+    text-align: center;
+}
