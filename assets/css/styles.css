@@ -1,6 +1,8 @@
 *,
 ::before,
 ::after {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -26,17 +28,28 @@ body {
     background: linear-gradient(to right, #000, #333);
 }
 
-body::before {
+body::before,
+body::after {
     content: "";
     position: fixed;
-    top: 50%;
-    left: 50%;
-    height: 80vh;
+    height: 100vh;
     aspect-ratio: 1/1;
     border-radius: 50%;
-    transform: translate(-50%, -50%);
     opacity: 0.5;
-    background-image: radial-gradient(cyan, transparent, transparent);
+}
+
+body::before {
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+    background-image: radial-gradient(#7111fb, transparent, transparent);
+}
+
+body::after {
+    bottom: 0;
+    left: 0;
+    transform: translate(-50%, 50%);
+    background-image: radial-gradient(#ff07a0a4, transparent, transparent);
 }
 
 a {

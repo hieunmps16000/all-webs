@@ -1,0 +1,150 @@
+[
+    {
+        "id": "6cbea05c",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://abctradingsystems.com",
+        "domain": "abctradingsystems.com"
+    },
+    {
+        "id": "6814e390",
+        "category": "Web bất động sản",
+        "img": "web-bat-dong-san.jpg",
+        "link": "https://canhothuthiem.com.vn",
+        "domain": "canhothuthiem.com.vn"
+    },
+    {
+        "id": "31ddba8b",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://anvietphatcty.com",
+        "domain": "anvietphatcty.com"
+    },
+    {
+        "id": "9d1a88a6",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://arvionholdings.com",
+        "domain": "arvionholdings.com"
+    },
+    {
+        "id": "e66cdb4d",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://bnbplastic.com",
+        "domain": "bnbplastic.com"
+    },
+    {
+        "id": "0b83e255",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://congtynamdaiha.com",
+        "domain": "congtynamdaiha.com"
+    },
+    {
+        "id": "abe998f7",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://daihankimvn.com.vn",
+        "domain": "daihankimvn.com.vn"
+    },
+    {
+        "id": "fb53a1a9",
+        "category": "Web giới thiệu công ty",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://dthtlogistics.com.vn",
+        "domain": "dthtlogistics.com.vn"
+    },
+    {
+        "id": "d75a5481",
+        "category": "Web giới thiệu sản phẩm",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://dorihealthy.com",
+        "domain": "dorihealthy.com"
+    },
+    {
+        "id": "71a8914b",
+        "category": "Web giới thiệu sản phẩm",
+        "img": "web-gioi-thieu.jpg",
+        "link": "https://dkglobalfruit.com",
+        "domain": "dkglobalfruit.com"
+    },
+    {
+        "id": "609fcc1c",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://congtyketviettiep.vn",
+        "domain": "congtyketviettiep.vn"
+    },
+    {
+        "id": "ac482ed5",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://ehibe.com",
+        "domain": "ehibe.com",
+        "isFeatured": true
+    },
+    {
+        "id": "dae32497",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://dienmaykhanghung.com",
+        "domain": "dienmaykhanghung.com"
+    },
+    {
+        "id": "0ff296c8",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://chooa.com.vn",
+        "domain": "chooa.com.vn"
+    },
+    {
+        "id": "198765de",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://bmauthentic.vn",
+        "domain": "bmauthentic.vn"
+    },
+    {
+        "id": "1b010e8e",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://cemacovietnamhcm.vn",
+        "domain": "cemacovietnamhcm.vn"
+    },
+    {
+        "id": "7e784c49",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://aes.vn/",
+        "domain": "aes.vn"
+    },
+    {
+        "id": "503ddce3",
+        "category": "Web bán hàng",
+        "img": "web-ban-hang.jpg",
+        "link": "https://amourelleworld.com/",
+        "domain": "amourelleworld.com"
+    },
+    {
+        "id": "34f46b41",
+        "category": "Web bất động sản",
+        "img": "web-bat-dong-san.jpg",
+        "link": "https://congdongnhathuthiem.com",
+        "domain": "congdongnhathuthiem.com"
+    },
+    {
+        "id": "db0bbf45",
+        "category": "Web bảo hiểm",
+        "img": "web-bao-hiem.jpg",
+        "link": "https://baohiem-online.vn",
+        "domain": "baohiem-online.vn"
+    },
+    {
+        "id": "eff78fcd",
+        "category": "Web tin tức",
+        "img": "web-tin-tuc.jpg",
+        "link": "https://banquantri-g4.com",
+        "domain": "banquantri-g4.com"
+    }
+]
